@@ -1,5 +1,6 @@
 <h1 align="center">HYPECHAT</h1>
 HYPECHAT is a chatroom app created using React and Firebase, where users can chat with their friends in real-time. The app includes a Google authentication feature and allows users to enter a chatroom by entering a room name nad chat with there friends in real time.
+<br/>
 <kbd><img align="center" src="https://user-images.githubusercontent.com/116445326/230588298-d8c9c92e-a65a-432b-bced-93b32a37b6b3.png" alt="website"></kbd>
 
 <h1 align="center">Features</h1>
@@ -33,3 +34,6 @@ Create a new branch for your feature/bugfix.
 Make your changes.
 Commit and push your changes.
 Submit a pull request.
+
+
+<h4>Please visit our [HYPECHAT](https://vermillion-pithivier-787341.netlify.app/)</h4>
